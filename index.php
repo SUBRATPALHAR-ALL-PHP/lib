@@ -3,6 +3,12 @@
 <head>
 <script type="text/javascript" src="script.js"></script>
 	<style>
+		
+		
+		<style>
+@import url('style.css');</style>
+		
+		
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	#tab1 {
 	margin-left: 11%;

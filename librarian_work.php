@@ -2,7 +2,11 @@
 <html>
 <head>
 <script type="text/javascript" src="script.js"></script>
-<style><link rel="stylesheet" type="text/css" href="css/style.css"></style>
+
+	<style>
+@import url('style.css');</style>
+	
+	
 <title>MY LIBRARY MANAGEMENT SYSTEM</title>
 </head>
 <body>
